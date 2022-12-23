@@ -1,2 +1,2 @@
 # simpledicegame
-simple random dice rolling static game 
+simple static dice game
