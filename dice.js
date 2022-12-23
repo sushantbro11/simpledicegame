@@ -1,3 +1,5 @@
+document.querySelector("button").addEventListener("click", function(){
+
 var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 
 var randomDiceImage = "dice" + randomNumber1 + ".png"; //dice1.png - dice6.png
@@ -27,6 +29,13 @@ document.querySelector("h1").innerHTML = "Player 2 Wins! 🚩";
 else {
 document.querySelector("h1").innerHTML = "✋️Draw!";
 }
+
+
+});
+
+
+
+
 
 
 // ->Code by me 

@@ -39,3 +39,14 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.dbtn{
+  text-align: center;
+}
+.btn{
+  width: 10%;
+  margin-top: 5%;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  border-radius: 60px;
+}
