@@ -38,7 +38,7 @@ document.querySelector("h1").innerHTML = "✋️Draw!";
 
 
 
-// ->Code by me 
+// ->what i did in my 1st try. It worked but not proper way need to think critically on using queryselector and stuffs
 
 
 // var randomNumber1
